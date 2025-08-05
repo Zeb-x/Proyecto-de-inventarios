@@ -6,4 +6,7 @@ Este código es para una aplicación de gestión de inventarios .exe. Se ha cons
 \
 \
 [Manual de instalacion](https://github.com/Zeb-x/Proyecto-de-inventarios/wiki/Manual-de-instalaci%C3%B3n)
+
 [Manual de usuario](https://github.com/Zeb-x/Proyecto-de-inventarios/wiki/Manual-de-usuario)
+
+[Contribuciónes](https://github.com/Zeb-x/Proyecto-de-inventarios/wiki/Contribuciones)
