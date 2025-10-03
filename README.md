@@ -12,3 +12,5 @@ Este código es para una aplicación de gestión de inventarios .exe. Se ha cons
 [Contribuciónes](https://github.com/Zeb-x/Proyecto-de-inventarios/wiki/Contribuciones)
 
 [Roadmap](https://trello.com/b/cnXgfCd8/roadman)
+
+⚠️Proyecto Pausado⚠️
